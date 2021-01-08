@@ -1,0 +1,205 @@
+ManifestFileVersion: 0
+CRC: 922925384
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f088c0574cf51852c68beb6604a847f0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a3eba316372b2f69b09604b127ff833
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/recetas/sopacastellana.FBX
+- Assets/recetas/texturas/paella_valenciana_albedo.png
+- Assets/recetas/arroznegro.FBX
+- Assets/recetas/patatasalopobre.prefab
+- Assets/recetas/materials/01 - Default 20.mat
+- Assets/recetas/huevosalaflamenca.prefab
+- Assets/recetas/huevosrotos.prefab
+- Assets/recetas/materials/01 - Default 26.mat
+- Assets/recetas/texturas/sopa_castellana__ajo_albedo.png
+- Assets/recetas/materials/01 - Default 37.mat
+- Assets/recetas/materials/01 - Default 6.mat
+- Assets/recetas/materials/01 - Default 27.mat
+- Assets/recetas/texturas/churros_con_chocolate_albedo.png
+- Assets/recetas/materials/01 - Default 21.mat
+- Assets/recetas/texturas/ensaladilla_rusa_albedo.png
+- Assets/recetas/migas.FBX
+- Assets/recetas/texturas/marmitako_de_bacalao_albedo.png
+- Assets/recetas/torrijas.FBX
+- Assets/recetas/texturas/arroz_con_leche_albedo2.png
+- Assets/recetas/materials/01 - Default 34.mat
+- Assets/recetas/materials/01 - Default 29.mat
+- Assets/recetas/texturas/huevos rotos_albedo.png
+- "Assets/recetas/texturas/bu\xF1uelos_de_viento_albedo.png"
+- Assets/recetas/huevosrotos.FBX
+- Assets/recetas/texturas/esgarraet_albedo.png
+- Assets/recetas/texturas/patatas_bravas_albedo_1.png
+- Assets/recetas/materials/01 - Default 22.mat
+- Assets/recetas/materials/01 - Default 43.mat
+- Assets/recetas/tortillaespanola.prefab
+- Assets/recetas/empanadas.prefab
+- Assets/recetas/lentejasconchorizo.FBX
+- Assets/recetas/materials/01 - Default 7.mat
+- Assets/recetas/materials/01 - Default 5.mat
+- Assets/recetas/paellavalenciana.FBX
+- Assets/recetas/texturas/guisantes_con_jamon_albedo.png
+- Assets/recetas/ensaladillarusa.FBX
+- Assets/recetas/texturas/arroz_negro_albedo.png
+- Assets/recetas/texturas/flan_albedo.png
+- Assets/recetas/materials/01 - Default 24.mat
+- Assets/recetas/materials/01 - Default 32.mat
+- Assets/recetas/texturas/lentejas_con_chorizo_albedo.png
+- Assets/recetas/merluzarellena.FBX
+- Assets/recetas/boquerones.FBX
+- Assets/recetas/materials/01 - Default 31.mat
+- Assets/recetas/texturas/sopa_mallorquina_albedo.png
+- Assets/recetas/pantumaca.prefab
+- Assets/recetas/marmitako.prefab
+- Assets/recetas/flan.prefab
+- Assets/recetas/texturas/papas_arrugadas_con_mojo_albedo.png
+- Assets/recetas/paellavalenciana.prefab
+- Assets/recetas/pulpoalagallega.FBX
+- Assets/recetas/papasarrugadas.prefab
+- Assets/recetas/texturas/pollo_asado_albedo.png
+- Assets/recetas/torrijas.prefab
+- Assets/recetas/texturas/empanadas_albedo.png
+- Assets/recetas/huevosalaflamenca.FBX
+- Assets/recetas/pantumaca.FBX
+- Assets/recetas/materials/01 - Default 11.mat
+- Assets/recetas/arrozabanda.prefab
+- Assets/recetas/materials/01 - Default 8.mat
+- Assets/recetas/pisto.prefab
+- Assets/recetas/materials/01 - Default 18.mat
+- Assets/recetas/bunuelosdeviento.FBX
+- Assets/recetas/texturas/sopa_castellana_albedo.png
+- Assets/recetas/pulpoalagallega.prefab
+- Assets/recetas/empanadas.FBX
+- Assets/recetas/texturas/boquerones_albedo.png
+- Assets/recetas/texturas/pulpo_a_la_gallega_albedo.png
+- Assets/recetas/polloasado.prefab
+- Assets/recetas/texturas/arroz_a_banda_albedo.png
+- Assets/recetas/materials/01 - Default 2.mat
+- Assets/recetas/materials/01 - Default 35.mat
+- Assets/recetas/cocadeverduras.prefab
+- Assets/recetas/marmitako.FBX
+- Assets/recetas/texturas/pisto_albedo.png
+- Assets/recetas/texturas/alioli_albedo.png
+- Assets/recetas/churrosconchocolate.FBX
+- Assets/recetas/papasarrugadas.FBX
+- Assets/recetas/sopamallorquina.FBX
+- Assets/recetas/chorizoalasidra.FBX
+- Assets/recetas/materials/01 - Default 28.mat
+- Assets/recetas/texturas/salpicon_de_pulpo_albedo.png
+- Assets/recetas/materials/01 - Default 30.mat
+- Assets/recetas/texturas/pan_tumaca_albedo.png
+- Assets/recetas/alioli.prefab
+- Assets/recetas/guisantesconjamon.prefab
+- Assets/recetas/chorizoalasidra.prefab
+- Assets/recetas/texturas/migas_albedo.png
+- Assets/recetas/texturas/natillas_albedo.png
+- Assets/recetas/materials/01 - Default 3.mat
+- Assets/recetas/salpicondepulpo.prefab
+- Assets/recetas/materials/01 - Default 10.mat
+- "Assets/recetas/texturas/rosc\xF2n_de_reyes_albedo.png"
+- Assets/recetas/texturas/patatas_a_lo_pobre_albedo.png
+- Assets/recetas/patatasrevolconas.prefab
+- Assets/recetas/materials/01 - Default 16.mat
+- Assets/recetas/cremacatalana.FBX
+- Assets/recetas/natillas.prefab
+- Assets/recetas/texturas/pimientos_rellenos_albedo.png
+- Assets/recetas/materials/01 - Default 38.mat
+- Assets/recetas/materials/01 - Default 33.mat
+- Assets/recetas/materials/01 - Default.mat
+- Assets/recetas/materials/01 - Default 15.mat
+- Assets/recetas/sopadeajocastellana.prefab
+- Assets/recetas/materials/01 - Default 39.mat
+- Assets/recetas/cocadeverduras.FBX
+- Assets/recetas/pimientosrellenos.prefab
+- Assets/recetas/materials/01 - Default 14.mat
+- Assets/recetas/sopadeajocastellana.FBX
+- Assets/recetas/salpicondepulpo.FBX
+- Assets/recetas/roscondereyes.prefab
+- Assets/recetas/codido.prefab
+- Assets/recetas/pimientosrellenos.FBX
+- Assets/recetas/alioli.FBX
+- Assets/recetas/esgarraget.prefab
+- Assets/recetas/materials/01 - Default 42.mat
+- Assets/recetas/roscondereyes.FBX
+- Assets/recetas/texturas/leche_frita_albedo.png
+- Assets/recetas/merluzaalasidra.FBX
+- Assets/recetas/guisantesconjamon.FBX
+- Assets/recetas/migas.prefab
+- Assets/recetas/gambasalajillo.FBX
+- Assets/recetas/lechefrita.prefab
+- Assets/recetas/texturas/cocido_albedo.png
+- Assets/recetas/ensaladillarusa.prefab
+- Assets/recetas/arrozabanda.FBX
+- Assets/recetas/materials/01 - Default 25.mat
+- Assets/recetas/materials/01 - Default 40.mat
+- Assets/recetas/materials/01 - Default 19.mat
+- Assets/recetas/materials/01 - Default 9.mat
+- Assets/recetas/churrosconchocolate.prefab
+- Assets/recetas/merluzarellena.prefab
+- Assets/recetas/texturas/tortilla_espanola_albedo.png
+- Assets/recetas/arrozconleche.FBX
+- Assets/recetas/cocido.FBX
+- Assets/recetas/bunuelosdeviento.prefab
+- Assets/recetas/flan.FBX
+- Assets/recetas/texturas/chorizo_a_la_sidra_albedo.png
+- Assets/recetas/texturas/crema_catalana_albedo.png
+- Assets/recetas/texturas/merluza_a_la_sidra_albedo.png
+- Assets/recetas/texturas/coca_de_verduras_albedo.png
+- Assets/recetas/materials/01 - Default 13.mat
+- Assets/recetas/texturas/patatas_revolconas_albedo.png
+- Assets/recetas/gambasalajillo.prefab
+- Assets/recetas/materials/01 - Default 36.mat
+- Assets/recetas/patatasbravas.FBX
+- Assets/recetas/cremacatalana.prefab
+- Assets/recetas/patatasbravas.prefab
+- Assets/recetas/materials/01 - Default 1.mat
+- Assets/recetas/patatasrevolconas.FBX
+- Assets/recetas/natillas.FBX
+- Assets/recetas/materials/01 - Default 12.mat
+- Assets/recetas/arrozconleche.prefab
+- Assets/recetas/polloasado.FBX
+- Assets/recetas/materials/01 - Default 23.mat
+- Assets/recetas/lechefrita.FBX
+- Assets/recetas/texturas/gambas_al_ajillo_albedo.png
+- Assets/recetas/sopacastellana.prefab
+- Assets/recetas/boquerones.prefab
+- Assets/recetas/materials/01 - Default 17.mat
+- Assets/recetas/esgarraget.FBX
+- Assets/recetas/arroznegro.prefab
+- Assets/recetas/patatasalopobre.FBX
+- Assets/recetas/pisto.FBX
+- Assets/recetas/rosquillasdeanis.FBX
+- Assets/recetas/tortillaespanola.FBX
+- Assets/recetas/texturas/rosquillas_de_anis_albedo.png
+- Assets/recetas/sopamallorquina.prefab
+- Assets/recetas/materials/01 - Default 41.mat
+- Assets/recetas/merluzaalasidra.prefab
+- Assets/recetas/texturas/merluza_rellena_albedo.png
+- Assets/recetas/texturas/torrijas_albedo.png
+- Assets/recetas/materials/01 - Default 4.mat
+- Assets/recetas/rosquillasdeanis.prefab
+- Assets/recetas/lentejasconchorizo.prefab
+- Assets/recetas/texturas/huevos_a_la_flamenca_albedo.png
+Dependencies: []

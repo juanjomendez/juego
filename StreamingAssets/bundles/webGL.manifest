@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 739252588
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: emojis
+      Dependencies: {}
+    Info_1:
+      Name: recetasprefabs
+      Dependencies: {}
+    Info_2:
+      Name: ingredientesprefabs
+      Dependencies:
+        Dependency_0: ingredientesprefabstextures
+    Info_3:
+      Name: ingredientesprefabstextures
+      Dependencies: {}
+    Info_4:
+      Name: avatartextures
+      Dependencies: {}
+    Info_5:
+      Name: personajesprefabs
+      Dependencies: {}
+    Info_6:
+      Name: personajesprefabsnophoton
+      Dependencies: {}
+    Info_7:
+      Name: preguntasfree
+      Dependencies: {}
+    Info_8:
+      Name: sonidos
+      Dependencies: {}
+    Info_9:
+      Name: materialcolores
+      Dependencies: {}
+    Info_10:
+      Name: preguntasall
+      Dependencies: {}
+    Info_11:
+      Name: barcos
+      Dependencies: {}

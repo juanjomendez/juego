@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2669309112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a20ae70ccc1f61dfce84f7d02ced606
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/sounds/bonus.ogg
+- Assets/sounds/tickcountdown.ogg
+- Assets/sounds/ff-bell.ogg
+- Assets/sounds/wrong3.ogg
+- Assets/sounds/click4.ogg
+- Assets/sounds/select1.ogg
+- Assets/sounds/missing call.ogg
+- Assets/sounds/click1.ogg
+- Assets/sounds/bounce.ogg
+- Assets/sounds/ascending.ogg
+- Assets/sounds/openbook.ogg
+- Assets/sounds/turnpage.ogg
+- Assets/sounds/wrong.ogg
+- Assets/sounds/descending.ogg
+- Assets/sounds/select2.ogg
+- Assets/sounds/drag.ogg
+- Assets/sounds/click3.ogg
+- Assets/sounds/fireworks.ogg
+- Assets/sounds/wrong2.ogg
+- Assets/sounds/tada1.ogg
+- Assets/sounds/wrong1.ogg
+- Assets/sounds/magnet.ogg
+- Assets/sounds/click2.ogg
+- Assets/sounds/show2.ogg
+- Assets/sounds/shuffle.ogg
+- Assets/sounds/show3.ogg
+- Assets/sounds/buzz.ogg
+- Assets/sounds/closebook.ogg
+- Assets/sounds/right.ogg
+- Assets/sounds/click.ogg
+- Assets/sounds/tada.ogg
+- Assets/sounds/clapping1.ogg
+- Assets/sounds/show1.ogg
+- Assets/sounds/shakdice.ogg
+Dependencies: []

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 387684233
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2de21e0877231b08cac0266a630a792e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/materialescolores/marronopaque.mat
+- Assets/materialescolores/mvioletaopaque.mat
+- Assets/materialescolores/mrojoopaque.mat
+- Assets/materialescolores/mrojo.mat
+- Assets/materialescolores/mquesitolevel3.mat
+- Assets/materialescolores/mquesitolevel1.mat
+- Assets/materialescolores/mquesitolevel2.mat
+- Assets/materialescolores/mverdeopaque.mat
+- Assets/materialescolores/mamarillo.mat
+- Assets/materialescolores/mazul.mat
+- Assets/materialescolores/mazulopaque.mat
+- Assets/materialescolores/mvioleta.mat
+- Assets/materialescolores/mamariloopaque.mat
+- Assets/materialescolores/mverde.mat
+- Assets/materialescolores/marron.mat
+Dependencies: []

@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 2636087085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c537c31a694e4f10f2feae2643437ee4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/avatartextures/avatar12.png
+- Assets/avatartextures/avatar30.png
+- Assets/avatartextures/avatar7.png
+- Assets/avatartextures/avatar13.png
+- Assets/avatartextures/avatar36.png
+- Assets/avatartextures/avatar8.png
+- Assets/avatartextures/avatar14.png
+- Assets/avatartextures/avatar29.png
+- Assets/avatartextures/avatar3.png
+- Assets/avatartextures/avatar40.png
+- Assets/avatartextures/avatar25.png
+- Assets/avatartextures/avatar43.png
+- Assets/avatartextures/avatar35.png
+- Assets/avatartextures/avatar20.png
+- Assets/avatartextures/avatar2.png
+- Assets/avatartextures/avatar46.png
+- Assets/avatartextures/avatar15.png
+- Assets/avatartextures/avatar5.png
+- Assets/avatartextures/avatar31.png
+- Assets/avatartextures/avatar42.png
+- Assets/avatartextures/avatar39.png
+- Assets/avatartextures/avatar18.png
+- Assets/avatartextures/avatar19.png
+- Assets/avatartextures/avatar47.png
+- Assets/avatartextures/avatar44.png
+- Assets/avatartextures/avatar38.png
+- Assets/avatartextures/avatar16.png
+- Assets/avatartextures/avatar41.png
+- Assets/avatartextures/avatar32.png
+- Assets/avatartextures/avatar0.png
+- Assets/avatartextures/avatar22.png
+- Assets/avatartextures/avatar21.png
+- Assets/avatartextures/avatar1.png
+- Assets/avatartextures/avatar11.png
+- Assets/avatartextures/avatar33.png
+- Assets/avatartextures/avatar10.png
+- Assets/avatartextures/avatar45.png
+- Assets/avatartextures/avatar6.png
+- Assets/avatartextures/avatar26.png
+- Assets/avatartextures/empty.png
+- Assets/avatartextures/avatar4.png
+- Assets/avatartextures/avatar9.png
+- Assets/avatartextures/avatar17.png
+- Assets/avatartextures/avatar37.png
+- Assets/avatartextures/avatar24.png
+- Assets/avatartextures/avatar27.png
+- Assets/avatartextures/avatar34.png
+- Assets/avatartextures/avatar28.png
+- Assets/avatartextures/avatar23.png
+Dependencies: []

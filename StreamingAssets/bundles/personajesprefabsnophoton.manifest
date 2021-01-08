@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 1752213814
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1bb747725beb56d0652cbff34c57c08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 20a8c8436c84db50194037b3a4c022a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 603723fbb9d92da4ebbb67ccf847a4a2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/personajesprefabsnophoton/FootballerBlack.prefab
+- Assets/personajesprefabsnophoton/RacerBrown.prefab
+- Assets/personajesprefabsnophoton/RunnerBlack.prefab
+- Assets/personajesprefabsnophoton/LuchadorBrown.prefab
+- Assets/personajesprefabsnophoton/GrandpaBrown.prefab
+- Assets/personajesprefabsnophoton/FootballerWhite.prefab
+- Assets/personajesprefabsnophoton/PrisonerBlack.prefab
+- Assets/personajesprefabsnophoton/FootballerBrown.prefab
+- Assets/personajesprefabsnophoton/LuchadorBlack.prefab
+- Assets/personajesprefabsnophoton/HippieBlack.prefab
+- Assets/personajesprefabsnophoton/ClownBrown.prefab
+- Assets/personajesprefabsnophoton/GrandmaBlack.prefab
+- Assets/personajesprefabsnophoton/CheerleaderWhite.prefab
+- Assets/personajesprefabsnophoton/ShopKeeperWhite.prefab
+- Assets/personajesprefabsnophoton/GrandpaBlack.prefab
+- Assets/personajesprefabsnophoton/NerdBlack.prefab
+- Assets/personajesprefabsnophoton/TouristBrown.prefab
+- Assets/personajesprefabsnophoton/PrisonerBrown.prefab
+- Assets/personajesprefabsnophoton/TouristWhite.prefab
+- Assets/personajesprefabsnophoton/MountieBlack.prefab
+- Assets/personajesprefabsnophoton/GrandmaBrown.prefab
+- Assets/personajesprefabsnophoton/HippieWhite.prefab
+- Assets/personajesprefabsnophoton/HippieBrown.prefab
+- Assets/personajesprefabsnophoton/LuchadorWhite.prefab
+- Assets/personajesprefabsnophoton/NerdBrown.prefab
+- Assets/personajesprefabsnophoton/RacerBlack.prefab
+- Assets/personajesprefabsnophoton/EmoBrown.prefab
+- Assets/personajesprefabsnophoton/BikerBrown.prefab
+- Assets/personajesprefabsnophoton/MountieBrown.prefab
+- Assets/personajesprefabsnophoton/RunnerWhite.prefab
+- Assets/personajesprefabsnophoton/BikerBlack.prefab
+- Assets/personajesprefabsnophoton/PrisonerWhite.prefab
+- Assets/personajesprefabsnophoton/GrandpaWhite.prefab
+- Assets/personajesprefabsnophoton/TouristBlack.prefab
+- Assets/personajesprefabsnophoton/BikerWhite.prefab
+- Assets/personajesprefabsnophoton/EmoWhite.prefab
+- Assets/personajesprefabsnophoton/GrandmaWhite.prefab
+- Assets/personajesprefabsnophoton/ShopKeeperBlack.prefab
+- Assets/personajesprefabsnophoton/NerdWhite.prefab
+- Assets/personajesprefabsnophoton/ClownBlack.prefab
+- Assets/personajesprefabsnophoton/CheerleaderBlack.prefab
+- Assets/personajesprefabsnophoton/ShopKeeperBrown.prefab
+- Assets/personajesprefabsnophoton/RacerWhite.prefab
+- Assets/personajesprefabsnophoton/RunnerBrown.prefab
+- Assets/personajesprefabsnophoton/EmoBlack.prefab
+- Assets/personajesprefabsnophoton/MountieWhite.prefab
+- Assets/personajesprefabsnophoton/CheerleaderBrown.prefab
+- Assets/personajesprefabsnophoton/ClownWhite.prefab
+Dependencies: []

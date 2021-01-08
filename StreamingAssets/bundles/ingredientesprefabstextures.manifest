@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 2079153851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42d50afefdf18b60067e61da6d7ee5d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/ingredientes/prefabs/textures/clams_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/tomatoes_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/tuna_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/candied_fruit_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/mussels_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/spiced_red_pepper_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/green_peas_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/flour_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/milk_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/Noras_albedo.png
+- Assets/ingredientes/prefabs/textures/potatoes_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/octopus_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/oranges_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/carrot_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/spanish_ham_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/anise_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/chorizo_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/onion_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/prawns_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/leeks_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/garlic_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/bacon_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/salt_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/chickpeas_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/anchovies_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/cuttlefish_albedo.png
+- Assets/ingredientes/prefabs/textures/rum_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/yeast_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/water_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/cocoa_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/bread_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/zucchini_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/cucumber_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/cauliflower_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/cinnamon_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/cod_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/lentils_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/oil_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/vinegar_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/rice_ingre_albedo.png
+- Assets/ingredientes/prefabs/textures/eggplant_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/hake_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/beans_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/olives_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/col_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/cider_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/squid_albedo.png
+- Assets/ingredientes/prefabs/textures/red_pepper_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/crawfish_albedo.png
+- Assets/ingredientes/prefabs/textures/almonds_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/eggs_ingre_albedo.png
+- Assets/ingredientes/prefabs/textures/bay_leaf_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/lemon_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/green_beans_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/blood_sausage_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/green_pepper_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/rabbit_meat_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/parsley_trasparent_albedo.png
+- Assets/ingredientes/prefabs/textures/butter_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/chicken_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/vanilla_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/wine_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/chard_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/garrofon_albedo.png
+- Assets/ingredientes/prefabs/textures/pimienta_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/saffron_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/cumin_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/chili_peppers_ingr_albedo.png
+- Assets/ingredientes/prefabs/textures/squid_ink_albedo.png
+- Assets/ingredientes/prefabs/textures/sugar_ingr_albedo.png
+Dependencies: []

@@ -1,0 +1,473 @@
+ManifestFileVersion: 0
+CRC: 1180718041
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 397b4cd4a50bd8ca3a9c4f7406c3d1bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram08.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura23.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram06.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen17.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram10.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura30.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen05.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram18.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen11.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen04.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen25.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura06.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram10.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura17.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen10.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA220.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura16.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp29.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen11.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen13.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram23.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen28.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen27.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram14.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA118.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA209.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen24.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA212.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp00.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp11.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen13.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram11.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen30.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura02.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram05.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram11.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp03.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram22.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA223.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura24.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura22.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura02.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram28.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA110.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram13.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen02.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura15.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram12.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp03.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp15.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp08.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp01.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura18.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura12.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram15.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA227.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA213.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB110.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen05.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA204.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB118.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp17.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram04.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura07.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen19.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura03.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura21.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA203.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp23.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram26.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura24.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura27.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen23.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA106.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura08.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen26.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA226.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp04.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp12.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura06.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen07.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp15.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA121.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp30.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura26.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen11.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram22.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp28.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram01.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp09.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura20.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen30.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen19.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen18.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram04.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura19.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram05.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp08.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA219.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB123.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA230.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram02.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen24.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA130.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp09.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura02.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA222.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen03.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp15.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura26.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen21.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp28.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen21.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp27.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen29.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen03.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen01.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram10.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen07.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen15.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp11.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen17.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp16.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp29.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen20.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram26.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura04.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB126.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura24.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB121.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp11.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA217.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA119.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen08.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen16.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB114.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp18.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB117.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp00.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp17.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA228.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen02.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram01.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp21.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp16.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB130.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp23.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp26.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen26.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram05.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura03.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen26.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB115.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA128.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB119.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen23.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp19.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura28.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen30.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp24.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA202.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen15.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen20.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA109.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram01.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp07.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp20.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura28.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA129.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura15.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp02.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA218.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram00.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp06.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram03.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp19.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen16.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp24.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen29.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura22.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA206.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp21.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura09.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA125.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen17.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen28.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram13.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram30.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA103.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen28.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram28.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp13.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura03.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen06.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura01.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram19.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB109.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB112.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen15.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen04.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA116.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB120.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram25.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram06.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura05.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp30.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura10.txt
+- Assets/preguntas/all/catgramatica/nivel2/OrdenarB1comp02.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura17.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura14.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp07.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp10.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen16.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB103.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA108.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen21.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA229.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram24.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen09.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp14.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen01.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp09.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA211.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA101.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen12.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen03.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp07.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen12.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura01.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp12.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen12.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram04.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp13.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp10.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram12.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA200.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp12.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen22.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura29.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA225.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram03.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen01.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB107.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen09.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp06.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp20.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram15.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp17.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura25.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram03.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura01.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA117.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura12.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram16.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram07.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA102.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram00.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB116.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram17.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen06.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura14.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA215.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen14.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram01.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp14.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen22.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura19.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura20.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp05.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp04.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura28.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen10.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram12.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB122.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura05.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura05.txt
+- Assets/preguntas/all/catgramatica/nivel2/OrdenarB1comp01.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB113.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram10.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA100.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura18.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura29.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura10.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen18.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp03.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura15.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura07.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura21.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura30.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp02.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen18.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura16.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB124.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp18.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram09.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram03.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura08.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen25.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen08.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA114.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura23.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram13.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp09.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram07.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp25.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA122.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA126.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB129.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen19.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp01.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram18.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram19.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram05.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram09.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura19.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram29.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB104.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura22.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura25.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram00.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram21.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura25.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp10.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB100.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram04.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA127.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura10.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen13.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen09.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp05.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp04.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA104.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram12.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB127.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram21.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp03.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura13.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp16.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB128.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp25.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura20.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram07.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura14.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram14.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA224.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA107.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram27.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA112.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen10.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp02.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp04.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen27.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen23.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp08.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura21.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura30.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp10.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram11.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA201.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura11.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura23.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp05.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp22.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram24.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen14.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp12.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA113.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram09.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram11.txt
+- Assets/preguntas/all/catgramatica/nivel2/OrdenarB1comp00.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp07.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram25.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp14.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura04.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram02.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram08.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA120.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB108.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram15.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA216.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA111.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA208.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram20.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp02.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp01.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram06.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen14.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp27.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp18.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen27.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura07.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram20.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB125.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura09.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp22.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura11.txt
+- Assets/preguntas/all/catvocabulario/nivel1/Vocabulario A2imagen02.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram00.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram02.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura04.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura06.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura16.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen05.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram16.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB106.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura29.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram09.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp26.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen04.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen07.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA105.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram30.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura26.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp08.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram17.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura18.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp13.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB101.txt
+- Assets/preguntas/all/catcomprension/nivel1/multipleA2comp01.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram08.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram27.txt
+- Assets/preguntas/all/catgramatica/nivel2/escribirrespuestaB1gram06.txt
+- Assets/preguntas/all/catgramatica/nivel0/MultipleA1gram23.txt
+- Assets/preguntas/all/catcomprension/nivel2/multipleB1comp06.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram14.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura08.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen24.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura27.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura17.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA124.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen22.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen25.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB105.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA123.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen08.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura12.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA221.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA214.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp11.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura13.txt
+- Assets/preguntas/all/catgramatica/nivel0/multipleA1gram29.txt
+- Assets/preguntas/all/catgramatica/nivel1/multipleA2gram07.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA210.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura13.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA205.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen06.txt
+- Assets/preguntas/all/catgramatica/nivel2/multipleB1gram08.txt
+- Assets/preguntas/all/catpronunciacion/nivel1/compauditivaA207.txt
+- Assets/preguntas/all/catcultura/nivel1/multipleA2cultura09.txt
+- Assets/preguntas/all/catcultura/nivel2/multipleB1cultura11.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB111.txt
+- Assets/preguntas/all/catcultura/nivel0/multipleA1cultura27.txt
+- Assets/preguntas/all/catpronunciacion/nivel0/compauditivaA115.txt
+- Assets/preguntas/all/catcomprension/nivel1/OrdenarA2comp06.txt
+- Assets/preguntas/all/catpronunciacion/nivel2/compauditivaB102.txt
+- Assets/preguntas/all/catvocabulario/nivel2/Vocabulario B1imagen20.txt
+- Assets/preguntas/all/catvocabulario/nivel0/Vocabulario A1imagen29.txt
+- Assets/preguntas/all/catcomprension/nivel0/OrdenarA1comp05.txt
+Dependencies: []

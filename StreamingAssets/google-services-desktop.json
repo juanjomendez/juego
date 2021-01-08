@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756195075525",
+    "firebase_url": "https://trivial-93525.firebaseio.com",
+    "project_id": "trivial-93525",
+    "storage_bucket": "trivial-93525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756195075525:android:9c18bd4b4cf78b1285d7ac",
+        "android_client_info": {
+          "package_name": "com.jjplus.trivial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756195075525-927nui5odcati93b60voq4jce790o5at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1LQQihiS_J5xSOkkKQ-q51GrELBUk9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756195075525-927nui5odcati93b60voq4jce790o5at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

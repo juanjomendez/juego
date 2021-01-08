@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 919380734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3b1b9da28ba7324a7aa7a1b494723f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc2c16b58e89b1f40c1383ff31ea25cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/ingredientes/prefabs/flour.prefab
+- Assets/ingredientes/prefabs/beans.prefab
+- Assets/ingredientes/prefabs/chili_peppers.FBX
+- Assets/ingredientes/prefabs/Cauliflower.FBX
+- Assets/ingredientes/prefabs/garrofon.FBX
+- Assets/ingredientes/prefabs/eggplant.prefab
+- Assets/ingredientes/prefabs/rice.FBX
+- Assets/ingredientes/prefabs/bread.prefab
+- Assets/ingredientes/prefabs/saffron.FBX
+- Assets/ingredientes/prefabs/milk.FBX
+- Assets/ingredientes/prefabs/tomatoes.FBX
+- Assets/ingredientes/prefabs/bloodsausage.prefab
+- Assets/ingredientes/prefabs/prawns.FBX
+- Assets/ingredientes/prefabs/squid.FBX
+- Assets/ingredientes/prefabs/noras.FBX
+- Assets/ingredientes/prefabs/wine.FBX
+- Assets/ingredientes/prefabs/bacon.FBX
+- Assets/ingredientes/prefabs/bread.FBX
+- Assets/ingredientes/prefabs/potatoes.FBX
+- Assets/ingredientes/prefabs/Cauliflower.prefab
+- Assets/ingredientes/prefabs/carrot.prefab
+- Assets/ingredientes/prefabs/col.prefab
+- Assets/ingredientes/prefabs/eggplant.FBX
+- Assets/ingredientes/prefabs/yeast.FBX
+- Assets/ingredientes/prefabs/hake.FBX
+- Assets/ingredientes/prefabs/almonds.FBX
+- Assets/ingredientes/prefabs/candied_fruit.prefab
+- Assets/ingredientes/prefabs/cuttlefish.prefab
+- Assets/ingredientes/prefabs/chicken.prefab
+- Assets/ingredientes/prefabs/chicken.FBX
+- Assets/ingredientes/prefabs/chard.prefab
+- Assets/ingredientes/prefabs/green_pepper.FBX
+- Assets/ingredientes/prefabs/bloodsausage.FBX
+- Assets/ingredientes/prefabs/eggs.prefab
+- Assets/ingredientes/prefabs/cod.prefab
+- Assets/ingredientes/prefabs/eggs.FBX
+- Assets/ingredientes/prefabs/Cinnamon.prefab
+- Assets/ingredientes/prefabs/tuna.FBX
+- Assets/ingredientes/prefabs/cucumber.prefab
+- Assets/ingredientes/prefabs/oranges.FBX
+- Assets/ingredientes/prefabs/spanish_ham.FBX
+- Assets/ingredientes/prefabs/salt.FBX
+- Assets/ingredientes/prefabs/lemon.FBX
+- Assets/ingredientes/prefabs/chorizo.FBX
+- Assets/ingredientes/prefabs/vinegar.FBX
+- Assets/ingredientes/prefabs/cuttlefish.FBX
+- Assets/ingredientes/prefabs/red_pepper.FBX
+- Assets/ingredientes/prefabs/clams.FBX
+- Assets/ingredientes/prefabs/col.FBX
+- Assets/ingredientes/prefabs/onion.FBX
+- Assets/ingredientes/prefabs/candied_fruit.FBX
+- Assets/ingredientes/prefabs/squid_ink.FBX
+- Assets/ingredientes/prefabs/pepper_powder.FBX
+- Assets/ingredientes/prefabs/crawfish.prefab
+- Assets/ingredientes/prefabs/cocoa.prefab
+- Assets/ingredientes/prefabs/beans.FBX
+- Assets/ingredientes/prefabs/Octopous.FBX
+- Assets/ingredientes/prefabs/cod.FBX
+- Assets/ingredientes/prefabs/cucumber.FBX
+- Assets/ingredientes/prefabs/cider.FBX
+- Assets/ingredientes/prefabs/green_peas.FBX
+- Assets/ingredientes/prefabs/rabbit.FBX
+- Assets/ingredientes/prefabs/water.FBX
+- Assets/ingredientes/prefabs/garlic.FBX
+- Assets/ingredientes/prefabs/almonds.prefab
+- Assets/ingredientes/prefabs/Cinnamon.FBX
+- Assets/ingredientes/prefabs/cocoa.FBX
+- Assets/ingredientes/prefabs/bayleaf.FBX
+- Assets/ingredientes/prefabs/bayleaf.prefab
+- Assets/ingredientes/prefabs/anise.prefab
+- Assets/ingredientes/prefabs/butter.FBX
+- Assets/ingredientes/prefabs/anchovies.FBX
+- Assets/ingredientes/prefabs/anise.FBX
+- Assets/ingredientes/prefabs/sugar.FBX
+- Assets/ingredientes/prefabs/green_beans.FBX
+- Assets/ingredientes/prefabs/anchovies.prefab
+- Assets/ingredientes/prefabs/bacon.prefab
+- Assets/ingredientes/prefabs/zuchinni.FBX
+- Assets/ingredientes/prefabs/crawfish.FBX
+- Assets/ingredientes/prefabs/spiced_red_pepper.FBX
+- Assets/ingredientes/prefabs/flour.FBX
+- Assets/ingredientes/prefabs/chorizo.prefab
+- Assets/ingredientes/prefabs/parsley.FBX
+- Assets/ingredientes/prefabs/carrot.FBX
+- Assets/ingredientes/prefabs/mussels.FBX
+- Assets/ingredientes/prefabs/cider.prefab
+- Assets/ingredientes/prefabs/rum.FBX
+- Assets/ingredientes/prefabs/chickpeas.FBX
+- Assets/ingredientes/prefabs/chickpeas.prefab
+- Assets/ingredientes/prefabs/butter.prefab
+- Assets/ingredientes/prefabs/leaks.FBX
+- Assets/ingredientes/prefabs/lentils.FBX
+- Assets/ingredientes/prefabs/vanilla.FBX
+- Assets/ingredientes/prefabs/olives.FBX
+- Assets/ingredientes/prefabs/chard.FBX
+- Assets/ingredientes/prefabs/cumin.FBX
+- Assets/ingredientes/prefabs/chili_peppers.prefab
+- Assets/ingredientes/prefabs/oil.FBX
+- Assets/ingredientes/prefabs/clams.prefab
+Dependencies:
+- C:/projects/Trivial/AssetBundles/webGL/ingredientesprefabstextures
